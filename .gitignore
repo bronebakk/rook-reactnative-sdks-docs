@@ -1,2 +1,7 @@
 /.idea/
 
+-e 
+# Environment variables
+.env
+.env.*
+.env.local
